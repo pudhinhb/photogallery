@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885243721274",
+    "project_id": "photogallery-c6b81",
+    "storage_bucket": "photogallery-c6b81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885243721274:android:051e9aa3c5b49ad691e703",
+        "android_client_info": {
+          "package_name": "com.example.photogallery_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuIhWclOFEynR-eSE2ixyPkP05d5C9ejE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
